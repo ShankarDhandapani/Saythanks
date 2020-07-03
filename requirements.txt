@@ -17,7 +17,7 @@ humanize==2.4.0
 idna==2.9
 itsdangerous==1.1.0
 jdcal==1.4.1
-Jinja2==2.11.2
+Jinja2==2.10.1
 MarkupSafe==1.1.1
 maya==0.6.1
 meinheld==1.0.2
